@@ -1,0 +1,51 @@
+{
+  "item": {
+    "id": "979808077601",
+    "restype": "watchface",
+    "name": "启程",
+    "description": "启程 · Departure\n\n向出发大厅的翻牌屏与琥珀色点阵屏致意。整块表盘是一张 61 × 73 的网格，每个亮点都带一点光晕，未点亮的格位沉成暗色底噪——亮着的是时间，暗着的是底子。\n\n时间用 5 × 7 的点阵巨字，两行竖排，像翻牌一样上下对齐；日期、星期与右下角电量用 3 × 5 的小字，右对齐收在右半边。时分之间立着一列 17 枚秒点，跟着系统秒走。右下角五格电量读的是手表里的真实电量，每格二成。\n\n息屏收得更干净：纯黑，没有底噪，也没有秒点，只留时分、月日、星期，以及时分之间两枚常亮的冒号点。亮度与亮屏一致，不额外增亮。\n\n换字是瞬时的，不做淡入淡出——这是点阵屏的本分：亮就是亮，暗就是暗。每一格亮度略有差异，像用久了的老屏幕，没有哪颗点是完全相同的。\n\n这块表盘不试图做很多事。它只想把时间安静地摆在黑底上，等你抬头那一眼。",
+    "preview": [
+      "media/poster-1-2000x3000_结果_结果.png",
+      "media/poster-2-2000x3000_结果_结果.png",
+      "media/poster-3-2000x3000_结果_结果.png"
+    ],
+    "icon": "media/屏幕截图 2026-10-01 044830.png",
+    "cover": "media/cover-type-3000x2000_结果_结果.png",
+    "author": [
+      {
+        "name": "seegood",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "支持我",
+      "url": "https://imwjh.com/support-me/zh",
+      "icon": "Heart"
+    },
+    {
+      "title": "seegood.top",
+      "url": "https://seegood.top",
+      "icon": "AirplaneTilt"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0",
+      "file_name": "downloads/QiCheng08Res.bin",
+      "versionCode": 1
+    },
+    "xmrw5xring": {
+      "version": "1.0",
+      "file_name": "downloads/QiCheng08Res.bin",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0",
+      "file_name": "downloads/QiCheng08Res.bin",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
